@@ -22,7 +22,7 @@ Bienvenido a mi CVV. Aquí encontrarás información sobre mí, mis habilidades 
 
 ## 📄 Evidencias
 
-- [Constancia PDF]()
+- [Constancia.pdf]()
 
 ## 🌐 Redes profesionales
 
