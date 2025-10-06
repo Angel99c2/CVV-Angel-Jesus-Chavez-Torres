@@ -26,5 +26,5 @@ Bienvenido a mi CVV. Aquí encontrarás información sobre mí, mis habilidades 
 
 ## 🌐 Redes profesionales
 
-- [🔗 Mi LinkedIn]([https://www.linkedin.com/in/tu-usuario](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=angel-chávez-3bb78537b )
+- [🔗 Mi LinkedIn](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=angel-chávez-3bb78537b)
 ---
